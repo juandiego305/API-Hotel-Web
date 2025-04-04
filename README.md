@@ -5,7 +5,8 @@ Este proyecto es una API REST desarrollada con Spring Boot, que permite la gesti
 1️⃣ Clonar el repositorio
 
 git clone https://github.com/juandiego305/API-Hotel-Web.git
-cd Api-Hotel
+
+cd ruta donde quieras guardar el proyecto en mi caso es Api-Hotel
 
 2️⃣ Ejecutar la API
 
