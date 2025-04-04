@@ -12,3 +12,4 @@ cd ruta donde quieras guardar el proyecto en mi caso es Api-Hotel
 
 mvn spring-boot:run
 
+JUAN DIEGO CONTRERAS GARCIA-1152224
